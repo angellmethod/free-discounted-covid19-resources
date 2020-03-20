@@ -12,5 +12,5 @@
 
 # Python
 
-[PyImageSearch - Free & Discounted] (https://www.pyimagesearch.com/2020/03/17/i-want-to-help-you-the-best-i-can-during-covid-19/)
+[PyImageSearch - Free & Discounted](https://www.pyimagesearch.com/2020/03/17/i-want-to-help-you-the-best-i-can-during-covid-19/)
 
