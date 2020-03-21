@@ -1,8 +1,10 @@
 # Free & Discounted (Learning / Tech / Reading) Resources during Covid-19
 
-# Theater
+# Theater/Opera
 
 [American Shakespeare Center - A Midsummer Night's Dream](https://www.facebook.com/americanshakespearecenter/photos/a.217320848346/10157665426288347/) - 3/22/2020 @ 1:45 EST.  Free livestream of Shakespeare!
+
+[The Met Opera](https://www.metopera.org/) - Streaming every night and available for 24 hours (I think) until the next one
 
 # Reading
 
