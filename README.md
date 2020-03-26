@@ -1,10 +1,15 @@
 # Free & Discounted (Learning / Tech / Reading) Resources during Covid-19
 
-# Theater/Opera
+# Theater/Opera/Music/TV
 
 [American Shakespeare Center - A Midsummer Night's Dream](https://www.facebook.com/americanshakespearecenter/photos/a.217320848346/10157665426288347/) - 3/22/2020 @ 1:45 EST.  Free livestream of Shakespeare!
 
 [The Met Opera](https://www.metopera.org/) - Streaming every night and available for 24 hours (I think) until the next one.  [Full Schedule](https://www.metopera.org/user-information/nightly-met-opera-streams/)
+
+[Austin City Limits](
+https://acltv.com/2020/03/23/shelter-at-home-with-streaming-episodes-of-austin-city-limits/) Some free episodes available from the archive + upcoming broadcasts starting on 3/28
+
+[CBS All Access](https://www.cbsnews.com/news/sir-patrick-stewart-announces-free-month-cbs-all-access-star-trek-picard-finale/) Free for one month with promo "GIFT"
 
 # Reading
 
@@ -21,6 +26,8 @@
 # Creating
 
 [Zbrush](https://pixologic.com/zbrush/trial/) Not sure if this is only during these times.  Free 30 day trial, quite expensive software but very very cool results.
+
+[Unity Learn](https://unity.com/products/learn-premium) Free for 3 mo (3/19 - 6/20)
 
 # Python
 
